@@ -3,3 +3,6 @@
 
 ## Detalles
 - Plugin que ejecuta cada 60 minutos una funcion que detecta los enlaces que no funcionan correctamente y registra los detalles en un custom post type.
+
+### Enlace al desafio 1
+https://github.com/latostudent/extra-quotes
