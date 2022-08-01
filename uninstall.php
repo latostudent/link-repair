@@ -7,7 +7,7 @@
  * @link       http://www.example.com
  * @since      0.0.1
  *
- * @package    Plugin_Name
+ * @package    lato_link_repair
  */
 
 // If uninstall not called from WordPress, then exit.

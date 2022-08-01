@@ -6,7 +6,7 @@
 <br />
 
 ## Descripción
-**WordPress Challenge** es una prueba de admisión para desarrolladoresespecializados en WordPress (HTML, CSS, JavaScript y PHP).
+**Desafio 2:** plugin desarrollado por **Carlos La Torre**.
 
 ## Pasos
 1. Crear un **fork** y entregar el enlace del repositorio de tu usuario. Evaluaremos la prueba en tu repositorio personal.
