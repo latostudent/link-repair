@@ -49,4 +49,16 @@ function repair_link_post_type() {
 add_action( 'init', 'repair_link_post_type', 0 );
 
 
+/**
+ * Crear pagina en el dashboard para explicar como usar el shortcode
+ */
 
+
+function add_link_repair(){
+    add_menu_page('Extra Quotes', 'Extra Quotes', 'publish_posts', 'extra-quotes', 'page_content', 'dashicons-format-quote', 16);
+}
+add_action('admin_menu', 'add_link_repair');
+
+function page_content(){
+    include "panel-extra-quotes.php";
+}
