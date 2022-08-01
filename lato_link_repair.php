@@ -6,13 +6,13 @@
  *
  * This file is responsible for starting the plugin using the main plugin class file.
  *
- * @since 0.3.1
+ * @since 0.0.1
  * @package lato_link_repair
  *
  * @wordpress-plugin
  * Plugin Name:     Link Repair and Extra Quote
  * Description:     Este plugin te ayudara a encontrar enlaces que no funcionan en tus posts.
- * Version:         0.0.1
+ * Version:         0.3.1
  * Author:          Carlos La Torre
  * Author URI:      https://latodev.com
  * License:         GPL-2.0+
